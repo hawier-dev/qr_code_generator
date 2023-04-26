@@ -1,5 +1,5 @@
 # QR Code Generator
-
+[![Django CI](https://github.com/hawier-dev/qr_code_generator/actions/workflows/django.yml/badge.svg)](https://github.com/hawier-dev/qr_code_generator/actions/workflows/django.yml)
 ## About
 
 A Django-based web application that generates 
