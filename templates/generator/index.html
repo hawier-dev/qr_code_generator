@@ -12,8 +12,8 @@
     </div>
 
     <div class="col-md-2">
-        {% if qrcode %}
-            <img src="{{ qrcode }" alt="QRCode">
+        {% if contents %}
+            <img src="data:image/jpeg;base64,{{contents}}" alt="QRCode">
         {% endif %}
     </div>
 
